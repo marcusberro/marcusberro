@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="top-banner.png" alt="@marcusberro" width="100%"/>
+</p>
+
 ## Hi there 👋
 
 <!--

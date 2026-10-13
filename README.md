@@ -7,10 +7,11 @@
 Software Engineer with 18+ years of experience, driven to make a meaningful difference in challenging market areas.
 
 ## Let's connect!
-[![Email](https://img.shields.io/badge/Email-FF0000?style=for-the-badge)](mailto:marcusberro@gmail.com)
+[![Resume](https://img.shields.io/badge/Resume-50E83C?style=for-the-badge)](https://drive.google.com/file/d/1iL-oYwZOjEKIfGHupPp-QnzrCvxExX_P/view?usp=drive_link)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marcusberro)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/marcusberro)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFE100?style=for-the-badge)](https://leetcode.com/u/k3iML4yrIj)
+[![Email](https://img.shields.io/badge/Email-FF0000?style=for-the-badge)](mailto:marcusberro@gmail.com)
 
 <!-- Portifolio and resume -->
 

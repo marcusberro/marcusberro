@@ -32,6 +32,7 @@ Software Engineer with 18+ years of experience, driven to make a meaningful diff
 - RDBMS MySQL and Oracle
 - NoSQL DBs MongoDB and Redis
 - NodeJS using Restify
+- Apache Kafka and IBM MQSeries
 - EIPs and Apache Camel
 - RESTful, SOA, Web Services
 - TDD practices
@@ -45,6 +46,7 @@ Software Engineer with 18+ years of experience, driven to make a meaningful diff
 ## Github Stats
 
 ## What is in my learning stack?
+- Kotlin
 - Applied AI Engineering
 - Python
 - Machine Learning
